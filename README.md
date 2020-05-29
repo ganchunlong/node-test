@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 爬虫必备工具：cheerio
 
 cheerio是jquery核心功能的一个快速灵活而又简洁的实现，主要是为了用在服务器端需要对DOM进行操作的地方。 大家可以简单的理解为用来解析html非常方便的工具。
@@ -91,3 +92,7 @@ function downloadImage(allFilms) {
 
 写好了下载图片的函数，我们在res.on('end')里面调用一下函数就大功告成了
 
+=======
+# node-test
+简单node 爬虫
+>>>>>>> fe5ab767d6cec4362eeeb3cbffd29a5a06d7f367
